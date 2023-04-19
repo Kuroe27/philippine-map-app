@@ -42,10 +42,10 @@ img {
   padding: 0 10px;
 }
 .header {
-  height: 60vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-bottom: 2rem;
 }
 
 .header h1 {
